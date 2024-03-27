@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD762375-C6D1-4497-BE2A-72A7378F6F23}|ProjetoCalculadora\\ProjetoCalculadora.csproj|c:\\users\\user\\documents\\fiap\\2 ano\\checkpoints\\.net e c#\\checkpoint_1\\projetocalculadora\\projetocalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD762375-C6D1-4497-BE2A-72A7378F6F23}|ProjetoCalculadora\\ProjetoCalculadora.csproj|solutionrelative:projetocalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD762375-C6D1-4497-BE2A-72A7378F6F23}|ProjetoCalculadora\\ProjetoCalculadora.csproj|c:\\users\\user\\documents\\fiap\\2 ano\\checkpoints\\.net e c#\\checkpoint_1\\projetocalculadora\\projetocalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD762375-C6D1-4497-BE2A-72A7378F6F23}|ProjetoCalculadora\\ProjetoCalculadora.csproj|solutionrelative:projetocalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD762375-C6D1-4497-BE2A-72A7378F6F23}|ProjetoCalculadora\\ProjetoCalculadora.csproj|c:\\users\\user\\documents\\fiap\\2 ano\\checkpoints\\.net e c#\\checkpoint_1\\projetocalculadora\\projetocalculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD762375-C6D1-4497-BE2A-72A7378F6F23}|ProjetoCalculadora\\ProjetoCalculadora.csproj|solutionrelative:projetocalculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\ProjetoCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoCalculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\ProjetoCalculadora\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ProjetoCalculadora\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:08:47.26Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\ProjetoCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoCalculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\ProjetoCalculadora\\Form1.cs",
+              "RelativeToolTip": "ProjetoCalculadora\\Form1.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAYwJUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:45:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\ProjetoCalculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoCalculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\FIAP\\2 Ano\\Checkpoints\\.NET e C#\\Checkpoint_1\\ProjetoCalculadora\\ProjetoCalculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "ProjetoCalculadora\\Form1.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ProjetoCalculadora",
+              "WhenOpened": "2024-03-27T01:42:01.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
