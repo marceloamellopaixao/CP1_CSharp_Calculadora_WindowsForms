@@ -4,13 +4,14 @@ Neste projeto, junto a minha equipe fizemos uma calculadora simples com as funci
 
 ## Integrantes do Grupo
 
-- RM552522 - Isadora Tatajuba Moreira Pinto
-- RM99562  - Kaique Santos de Andrade
-- RM550841 - Lucas Araujo Oliveira Silva
-- RM99466  - Marcelo Augusto de Mello Paixão
-- RM99513  - Rodrigo Batista Freire
+- Isadora Tatajuba Moreira Pinto - RM552522 
+- Kaique Santos de Andrade - RM99562
+- Lucas Araujo Oliveira Silva - RM550841
+- Marcelo Augusto de Mello Paixão - RM99466
+- Maria Eduarda Sousa de Oliveira - RM552477
+- Rodrigo Batista Freire - RM99513
 
-## Como funciona as funcionalidades?
+## Como funciona os botões?
 
 Todas as mesmas operações aritméticas, recebem um valor inicial = 1 mais a operação irá zerar a tela da calculadora, demonstrando o simbolo de soma no canto esquerdo como forma de informar ao usuário que já pode inserir o valor final = 2 para com isso apertar no botão igual.
 
