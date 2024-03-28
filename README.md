@@ -1,5 +1,13 @@
 # 1º Checkpoint - Calculadora com Windows Forms
 
+## Integrantes do Grupo
+
+- RM552522 - Isadora Tatajuba Moreira Pinto
+- RM99562  - Kaique Santos de Andrade
+- RM550841 - Lucas Araujo Oliveira Silva
+- RM99466  - Marcelo Augusto de Mello Paixão
+- RM99513  - Rodrigo Batista Freire
+
 Neste projeto, junto a minha equipe fizemos uma calculadora simples com as funcionalidades (Somar, Subtrair, Dividir e Multiplicar), sendo feita por vontade própria 2 funcionalidades (Limpeza completa (C) ou Limpar um caráctere (←)) para que o usuário final se sinta confortável ao utilizá-lo e poder apagar o que for necessário caso haja algum erro.
 
 ## Como funciona as funcionalidades?
